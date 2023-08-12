@@ -1,4 +1,4 @@
-import { EmiCalculator } from "../Component/emiCalculator";
+import { EmiCalculator } from "./Component/emiCalculator";
 import "./styles.css";
 
 export default function App() {

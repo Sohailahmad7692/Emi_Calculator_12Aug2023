@@ -54,7 +54,7 @@ export const PieChart = (props) => {
             backgroundColor: "green",
             width: "50px",
             height: "10px",
-            marginLeft: "30px"
+            marginLeft: "30px",
           }}
         ></div>
       </Description>
@@ -65,7 +65,7 @@ export const PieChart = (props) => {
             backgroundColor: "red",
             width: "50px",
             height: "10px",
-            marginLeft: "30px"
+            marginLeft: "30px",
           }}
         ></div>
       </Description>
